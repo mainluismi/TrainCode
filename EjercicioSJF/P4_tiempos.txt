@@ -1,2 +1,0 @@
-Tiempo de Espera: -4
-Tiempo de Retorno: 11
